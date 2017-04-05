@@ -4,4 +4,5 @@ test --no--ff
 dev change commit 1
 dev change commit 2
 dev change commit 5
+dev change commit 6
 merge
